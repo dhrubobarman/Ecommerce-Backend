@@ -1,6 +1,6 @@
 ## Hosted Project
 
-[E-Commerce API Heroku URL](https://ecommerce-backend-vj08.onrender.com/)
+[E-Commerce API Render URL](https://ecommerce-backend-vj08.onrender.com/)
 
 #### Setup Basic Express Server
 
